@@ -1,0 +1,1 @@
+/usr/bin/c++   -fPIC -g  -rdynamic CMakeFiles/quad_subdivision.dir/quad_subdivision.cpp.o  -o quad_subdivision libcore.a /usr/lib/x86_64-linux-gnu/libGL.so glad/libglad.a glfw/src/libglfw3.a -lrt -lm -ldl -lX11 -lpthread 

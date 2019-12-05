@@ -1,0 +1,1 @@
+/usr/bin/c++   -fPIC -g  -rdynamic CMakeFiles/normals.dir/normals.cpp.o  -o normals libcore.a /usr/lib/x86_64-linux-gnu/libGL.so glad/libglad.a glfw/src/libglfw3.a -lrt -lm -ldl -lX11 -lpthread 

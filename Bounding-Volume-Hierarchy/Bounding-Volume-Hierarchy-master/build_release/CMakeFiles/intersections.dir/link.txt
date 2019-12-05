@@ -1,0 +1,1 @@
+/usr/bin/c++    -fPIC -O3 -DNDEBUG   CMakeFiles/intersections.dir/intersections.cpp.o  -o intersections -rdynamic libcore.a -lGL glad/libglad.a glfw/src/libglfw3.a -lrt -lm -ldl -lX11 -lpthread 

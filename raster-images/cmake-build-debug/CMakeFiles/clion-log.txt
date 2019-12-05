@@ -1,0 +1,4 @@
+/home/j1ai/Downloads/clion-2017.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/j1ai/Desktop/CSC418/raster-images
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/j1ai/Desktop/CSC418/raster-images/cmake-build-debug

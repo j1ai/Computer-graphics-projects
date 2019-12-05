@@ -1,0 +1,1 @@
+/usr/bin/c++   -fPIC -g  -rdynamic CMakeFiles/obj.dir/obj.cpp.o  -o obj libcore.a glfw/src/libglfw3.a -lrt -lm -lX11 stb_image/libigl_stb_image.a -lpthread /usr/lib/x86_64-linux-gnu/libGL.so glad/libglad.a -ldl 

@@ -1,0 +1,3 @@
+/home/j1ai/Desktop/CSC418/raster-images/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/j1ai/Desktop/CSC418/raster-images/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/j1ai/Desktop/CSC418/raster-images/cmake-build-debug/CMakeFiles/raster.dir

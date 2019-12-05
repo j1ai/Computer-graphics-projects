@@ -1,0 +1,14 @@
+/home/j1ai/Desktop/CSC418/Bounding-Volume-Hierarchy/build_release/CMakeFiles/intersections.dir
+/home/j1ai/Desktop/CSC418/Bounding-Volume-Hierarchy/build_release/CMakeFiles/edit_cache.dir
+/home/j1ai/Desktop/CSC418/Bounding-Volume-Hierarchy/build_release/CMakeFiles/distances.dir
+/home/j1ai/Desktop/CSC418/Bounding-Volume-Hierarchy/build_release/CMakeFiles/rays.dir
+/home/j1ai/Desktop/CSC418/Bounding-Volume-Hierarchy/build_release/CMakeFiles/rebuild_cache.dir
+/home/j1ai/Desktop/CSC418/Bounding-Volume-Hierarchy/build_release/CMakeFiles/core.dir
+/home/j1ai/Desktop/CSC418/Bounding-Volume-Hierarchy/build_release/glad/CMakeFiles/edit_cache.dir
+/home/j1ai/Desktop/CSC418/Bounding-Volume-Hierarchy/build_release/glad/CMakeFiles/glad.dir
+/home/j1ai/Desktop/CSC418/Bounding-Volume-Hierarchy/build_release/glad/CMakeFiles/rebuild_cache.dir
+/home/j1ai/Desktop/CSC418/Bounding-Volume-Hierarchy/build_release/glfw/CMakeFiles/edit_cache.dir
+/home/j1ai/Desktop/CSC418/Bounding-Volume-Hierarchy/build_release/glfw/CMakeFiles/rebuild_cache.dir
+/home/j1ai/Desktop/CSC418/Bounding-Volume-Hierarchy/build_release/glfw/src/CMakeFiles/edit_cache.dir
+/home/j1ai/Desktop/CSC418/Bounding-Volume-Hierarchy/build_release/glfw/src/CMakeFiles/glfw.dir
+/home/j1ai/Desktop/CSC418/Bounding-Volume-Hierarchy/build_release/glfw/src/CMakeFiles/rebuild_cache.dir
